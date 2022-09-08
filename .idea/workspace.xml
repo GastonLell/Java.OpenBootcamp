@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a9ab857b-1471-466a-938b-02b26ca15c17" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/ejercicio3/EjercicioTres.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ejercicio4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ejercicio4/claseHija/SmartPhone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ejercicio4/claseHija/SmartWatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/ejercicio4/clasePadre/SmartDevice.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,7 +27,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="leccion-2" />
+        <entry key="$PROJECT_DIR$" value="leccion-4-POO" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -32,18 +36,21 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2EOU4BHjFwgyJLSKrHFYrfmxHeP" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
-}</component>
-  <component name="RunManager" selected="Application.EjercicioTres">
+}]]></component>
+  <component name="RunManager" selected="Application.Main">
     <configuration name="EjercicioDos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.ejercicio2.EjercicioDos" />
       <module name="EjerciciosOpenBootcamp" />
@@ -83,8 +90,36 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ejercicio4.Main" />
+      <module name="EjerciciosOpenBootcamp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ejercicio4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.ejercicio4.EjercicioCuatro" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ejercicio4.EjercicioCuatro" />
+      <module name="EjerciciosOpenBootcamp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ejercicio4.Herencia.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.com.ejercicio4.EjercicioCuatro" />
         <item itemvalue="Application.EjercicioTres" />
         <item itemvalue="Application.EjercicioDos" />
         <item itemvalue="Application.EjercicioUno" />

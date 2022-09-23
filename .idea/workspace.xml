@@ -5,11 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a9ab857b-1471-466a-938b-02b26ca15c17" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/ejercicio10/EntradaSalida.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/ejercicio10/ScannerExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fileInput.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leccion10/ejercicios/Cinco.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leccion10/ejercicios/Dos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leccion10/ejercicios/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leccion10/ejercicios/Seis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leccion10/ejercicios/Tres.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/leccion10/ejercicios/Uno.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/ejercicio1/EjercicioUno.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ejercicio10/EntradaSalida.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ejercicio10/ScannerExample.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +28,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="leccion-10" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -43,13 +52,13 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ScannerExample">
-    <configuration name="EjercicioUno" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ejercicio1.EjercicioUno" />
+  <component name="RunManager" selected="Application.Seis">
+    <configuration name="Cinco" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leccion10.ejercicios.Cinco" />
       <module name="EjerciciosOpenBootcamp" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ejercicio1.*" />
+          <option name="PATTERN" value="com.leccion10.ejercicios.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -57,12 +66,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EntradaSalida" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ejercicio10.EntradaSalida" />
+    <configuration name="Dos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leccion10.ejercicios.Dos" />
       <module name="EjerciciosOpenBootcamp" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ejercicio10.*" />
+          <option name="PATTERN" value="com.leccion10.ejercicios.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -70,12 +79,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ScannerExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ejercicio10.ScannerExample" />
+    <configuration name="Seis" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leccion10.ejercicios.Seis" />
       <module name="EjerciciosOpenBootcamp" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ejercicio10.*" />
+          <option name="PATTERN" value="com.leccion10.ejercicios.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tres" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leccion10.ejercicios.Tres" />
+      <module name="EjerciciosOpenBootcamp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.leccion10.ejercicios.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Uno" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.leccion10.ejercicios.Uno" />
+      <module name="EjerciciosOpenBootcamp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.leccion10.ejercicios.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -84,15 +119,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.ScannerExample" />
-      <item itemvalue="Application.EntradaSalida" />
-      <item itemvalue="Application.EjercicioUno" />
+      <item itemvalue="Application.Cinco" />
+      <item itemvalue="Application.Dos" />
+      <item itemvalue="Application.Seis" />
+      <item itemvalue="Application.Tres" />
+      <item itemvalue="Application.Uno" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ScannerExample" />
-        <item itemvalue="Application.EntradaSalida" />
-        <item itemvalue="Application.EjercicioUno" />
+        <item itemvalue="Application.Seis" />
+        <item itemvalue="Application.Cinco" />
+        <item itemvalue="Application.Tres" />
+        <item itemvalue="Application.Dos" />
+        <item itemvalue="Application.Uno" />
       </list>
     </recent_temporary>
   </component>
@@ -112,7 +151,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="leccion-4" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>

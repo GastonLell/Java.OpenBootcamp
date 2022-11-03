@@ -5,11 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a9ab857b-1471-466a-938b-02b26ca15c17" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/leccion10/ejercicios/Nueve.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/leccion10/ejercicios/Ocho.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/leccion10/ejercicios/siete.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SwingTax/MainForm.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SwingTax/MainForm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SwingTax/SwingTax.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/fileInput.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/leccion10/ejercicios/Cinco.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/leccion10/ejercicios/Dos.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/leccion10/ejercicios/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/leccion10/ejercicios/Ocho.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/leccion10/ejercicios/Seis.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/leccion10/ejercicios/Tres.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/leccion10/ejercicios/Uno.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/leccion10/ejercicios/siete.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,7 +33,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="leccion-10" />
+        <entry key="$PROJECT_DIR$" value="leccion-10-ejercicios" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -48,13 +55,13 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Nueve">
-    <configuration name="Cinco" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leccion10.ejercicios.Cinco" />
+  <component name="RunManager" selected="Application.MainForm">
+    <configuration name="MainForm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SwingTax.MainForm" />
       <module name="EjerciciosOpenBootcamp" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.leccion10.ejercicios.*" />
+          <option name="PATTERN" value="SwingTax.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,19 +122,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.MainForm" />
       <item itemvalue="Application.Nueve" />
       <item itemvalue="Application.Ocho" />
-      <item itemvalue="Application.siete" />
-      <item itemvalue="Application.Cinco" />
       <item itemvalue="Application.Seis" />
+      <item itemvalue="Application.siete" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MainForm" />
         <item itemvalue="Application.Nueve" />
         <item itemvalue="Application.Ocho" />
         <item itemvalue="Application.siete" />
         <item itemvalue="Application.Seis" />
-        <item itemvalue="Application.Cinco" />
       </list>
     </recent_temporary>
   </component>

@@ -5,12 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a9ab857b-1471-466a-938b-02b26ca15c17" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ProgramacionFuncional/Funcionales.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ProgramacionFuncional/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SwingTax/MainForm.form" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SwingTax/MainForm.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SwingTax/SwingTax.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ProgramacionFuncional/Funcionales.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ProgramacionFuncional/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ProgramacionFuncional/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

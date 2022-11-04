@@ -5,18 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a9ab857b-1471-466a-938b-02b26ca15c17" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/SwingTax/MainForm.form" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SwingTax/MainForm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SwingTax/SwingTax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProgramacionFuncional/Funcionales.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProgramacionFuncional/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/leccion10/ejercicios/Cinco.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/leccion10/ejercicios/Dos.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/leccion10/ejercicios/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/leccion10/ejercicios/Ocho.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/leccion10/ejercicios/Seis.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/leccion10/ejercicios/Tres.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/leccion10/ejercicios/Uno.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/leccion10/ejercicios/siete.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SwingTax/MainForm.form" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SwingTax/MainForm.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SwingTax/SwingTax.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,13 +49,26 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.MainForm">
-    <configuration name="MainForm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SwingTax.MainForm" />
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Funcionales" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ProgramacionFuncional.Funcionales" />
       <module name="EjerciciosOpenBootcamp" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SwingTax.*" />
+          <option name="PATTERN" value="ProgramacionFuncional.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ProgramacionFuncional.Main" />
+      <module name="EjerciciosOpenBootcamp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ProgramacionFuncional.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,25 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Seis" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leccion10.ejercicios.Seis" />
+    <configuration name="SwingTax.MainForm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SwingTax.MainForm" />
       <module name="EjerciciosOpenBootcamp" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.leccion10.ejercicios.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="siete" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leccion10.ejercicios.siete" />
-      <module name="EjerciciosOpenBootcamp" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.leccion10.ejercicios.*" />
+          <option name="PATTERN" value="SwingTax.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,19 +116,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.MainForm" />
+      <item itemvalue="Application.Funcionales" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.SwingTax.MainForm" />
       <item itemvalue="Application.Nueve" />
       <item itemvalue="Application.Ocho" />
-      <item itemvalue="Application.Seis" />
-      <item itemvalue="Application.siete" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MainForm" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Funcionales" />
+        <item itemvalue="Application.SwingTax.MainForm" />
         <item itemvalue="Application.Nueve" />
         <item itemvalue="Application.Ocho" />
-        <item itemvalue="Application.siete" />
-        <item itemvalue="Application.Seis" />
       </list>
     </recent_temporary>
   </component>

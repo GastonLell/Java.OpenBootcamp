@@ -5,7 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a9ab857b-1471-466a-938b-02b26ca15c17" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Factory/FactoryPrice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Factory/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Factory/Price.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Factory/PriceEUR.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Factory/PriceGBP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Factory/PriceUSD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SIngletonEjemplo/Cart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SIngletonEjemplo/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Singleton/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Singleton/Singleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TransportFactory/Automovil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TransportFactory/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TransportFactory/Motocycle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TransportFactory/Transport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/TransportFactory/TransportFactory.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ProgramacionFuncional/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,6 +31,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -22,7 +39,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="leccion-10-ejercicios" />
+        <entry key="$PROJECT_DIR$" value="recursion" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -44,13 +61,13 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="Funcionales" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ProgramacionFuncional.Funcionales" />
+  <component name="RunManager" selected="Application.TransportFactory.Main">
+    <configuration name="Factory.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Factory.Main" />
       <module name="EjerciciosOpenBootcamp" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ProgramacionFuncional.*" />
+          <option name="PATTERN" value="Factory.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -71,12 +88,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Nueve" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leccion10.ejercicios.Nueve" />
+    <configuration name="SIngletonEjemplo.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SIngletonEjemplo.Main" />
       <module name="EjerciciosOpenBootcamp" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.leccion10.ejercicios.*" />
+          <option name="PATTERN" value="SIngletonEjemplo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -84,12 +101,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ocho" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.leccion10.ejercicios.Ocho" />
+    <configuration name="Singleton.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Singleton.Main" />
       <module name="EjerciciosOpenBootcamp" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.leccion10.ejercicios.*" />
+          <option name="PATTERN" value="Singleton.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,12 +114,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SwingTax.MainForm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SwingTax.MainForm" />
+    <configuration name="TransportFactory.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TransportFactory.Main" />
       <module name="EjerciciosOpenBootcamp" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SwingTax.*" />
+          <option name="PATTERN" value="TransportFactory.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,19 +128,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Funcionales" />
+      <item itemvalue="Application.Factory.Main" />
+      <item itemvalue="Application.TransportFactory.Main" />
+      <item itemvalue="Application.SIngletonEjemplo.Main" />
+      <item itemvalue="Application.Singleton.Main" />
       <item itemvalue="Application.Main" />
-      <item itemvalue="Application.SwingTax.MainForm" />
-      <item itemvalue="Application.Nueve" />
-      <item itemvalue="Application.Ocho" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TransportFactory.Main" />
+        <item itemvalue="Application.Factory.Main" />
+        <item itemvalue="Application.SIngletonEjemplo.Main" />
+        <item itemvalue="Application.Singleton.Main" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Funcionales" />
-        <item itemvalue="Application.SwingTax.MainForm" />
-        <item itemvalue="Application.Nueve" />
-        <item itemvalue="Application.Ocho" />
       </list>
     </recent_temporary>
   </component>
@@ -160,5 +177,15 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

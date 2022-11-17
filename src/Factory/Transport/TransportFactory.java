@@ -1,4 +1,4 @@
-package TransportFactory;
+package Factory.Transport;
 
 public class TransportFactory {
     Transport transportType;

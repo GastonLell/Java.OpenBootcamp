@@ -1,4 +1,4 @@
-package SIngletonEjemplo;
+package Singleton.Cart;
 
 import java.util.ArrayList;
 

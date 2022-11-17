@@ -1,4 +1,4 @@
-package Singleton;
+package Singleton.Basic;
 
 public class Main {
     public static void main(String[] args){

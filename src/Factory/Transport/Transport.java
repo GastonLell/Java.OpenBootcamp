@@ -1,4 +1,4 @@
-package TransportFactory;
+package Factory.Transport;
 
 public interface Transport {
     public void start();

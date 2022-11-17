@@ -1,4 +1,4 @@
-package TransportFactory;
+package Factory.Transport;
 
 public class Automovil implements Transport{
     @Override

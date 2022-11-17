@@ -5,23 +5,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a9ab857b-1471-466a-938b-02b26ca15c17" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Factory/FactoryPrice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Factory/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Factory/Price.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Factory/PriceEUR.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Factory/PriceGBP.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Factory/PriceUSD.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SIngletonEjemplo/Cart.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SIngletonEjemplo/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Singleton/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Singleton/Singleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TransportFactory/Automovil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TransportFactory/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TransportFactory/Motocycle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TransportFactory/Transport.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TransportFactory/TransportFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Factory/Payment/CreditCardPayment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Factory/Payment/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Factory/Payment/Payment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Factory/Payment/PaymentFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Factory/Payment/TransferPayment.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ProgramacionFuncional/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Factory/FactoryPrice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Factory/Price/FactoryPrice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Factory/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Factory/Price/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Factory/Price.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Factory/Price/Price.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Factory/PriceEUR.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Factory/Price/PriceEUR.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Factory/PriceGBP.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Factory/Price/PriceGBP.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Factory/PriceUSD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Factory/Price/PriceUSD.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SIngletonEjemplo/Cart.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Singleton/Cart/Cart.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SIngletonEjemplo/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Singleton/Cart/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Singleton/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Singleton/Basic/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Singleton/Singleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Singleton/Basic/Singleton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TransportFactory/Automovil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Factory/Transport/Automovil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TransportFactory/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Factory/Transport/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TransportFactory/Motocycle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Factory/Transport/Motocycle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TransportFactory/Transport.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Factory/Transport/Transport.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TransportFactory/TransportFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Factory/Transport/TransportFactory.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,13 +65,13 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.TransportFactory.Main">
-    <configuration name="Factory.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Factory.Main" />
+  <component name="RunManager" selected="Application.Factory.Payment.Main">
+    <configuration name="Factory.Payment.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Factory.Payment.Main" />
       <module name="EjerciciosOpenBootcamp" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Factory.*" />
+          <option name="PATTERN" value="Factory.Payment.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -75,12 +79,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ProgramacionFuncional.Main" />
+    <configuration name="Factory.Price.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Factory.Price.Main" />
       <module name="EjerciciosOpenBootcamp" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ProgramacionFuncional.*" />
+          <option name="PATTERN" value="Factory.Price.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,12 +92,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SIngletonEjemplo.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SIngletonEjemplo.Main" />
+    <configuration name="Factory.Transport.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Factory.Transport.Main" />
       <module name="EjerciciosOpenBootcamp" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SIngletonEjemplo.*" />
+          <option name="PATTERN" value="Factory.Transport.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,12 +105,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Singleton.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Singleton.Main" />
+    <configuration name="Singleton.Basic.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Singleton.Basic.Main" />
       <module name="EjerciciosOpenBootcamp" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Singleton.*" />
+          <option name="PATTERN" value="Singleton.Basic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,12 +118,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TransportFactory.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TransportFactory.Main" />
+    <configuration name="Singleton.Cart.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Singleton.Cart.Main" />
       <module name="EjerciciosOpenBootcamp" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="TransportFactory.*" />
+          <option name="PATTERN" value="Singleton.Cart.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,19 +132,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Factory.Main" />
-      <item itemvalue="Application.TransportFactory.Main" />
-      <item itemvalue="Application.SIngletonEjemplo.Main" />
-      <item itemvalue="Application.Singleton.Main" />
-      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Factory.Payment.Main" />
+      <item itemvalue="Application.Factory.Price.Main" />
+      <item itemvalue="Application.Factory.Transport.Main" />
+      <item itemvalue="Application.Singleton.Basic.Main" />
+      <item itemvalue="Application.Singleton.Cart.Main" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TransportFactory.Main" />
-        <item itemvalue="Application.Factory.Main" />
-        <item itemvalue="Application.SIngletonEjemplo.Main" />
-        <item itemvalue="Application.Singleton.Main" />
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Factory.Payment.Main" />
+        <item itemvalue="Application.Singleton.Cart.Main" />
+        <item itemvalue="Application.Singleton.Basic.Main" />
+        <item itemvalue="Application.Factory.Transport.Main" />
+        <item itemvalue="Application.Factory.Price.Main" />
       </list>
     </recent_temporary>
   </component>

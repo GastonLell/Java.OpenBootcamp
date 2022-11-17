@@ -1,6 +1,4 @@
-package TransportFactory;
-
-import Factory.FactoryPrice;
+package Factory.Transport;
 
 public class Main {
 

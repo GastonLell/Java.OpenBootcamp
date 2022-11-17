@@ -1,4 +1,4 @@
-package Factory;
+package Factory.Price;
 
 public class PriceUSD implements Price{
 

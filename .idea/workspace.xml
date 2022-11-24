@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a9ab857b-1471-466a-938b-02b26ca15c17" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Builder/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Builder/Vehiculo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Builder/VehiculoBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Prototype/Coche.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Prototype/CocheImplementCloneable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Prototype/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,7 +48,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.Prototype.Main">
     <configuration name="Factory.Payment.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Factory.Payment.Main" />
       <module name="EjerciciosOpenBootcamp" />
@@ -62,12 +62,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Factory.Transport.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Factory.Transport.Main" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Builder.Main" />
       <module name="EjerciciosOpenBootcamp" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Factory.Transport.*" />
+          <option name="PATTERN" value="Builder.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -75,12 +75,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Builder.Main" />
+    <configuration name="Prototype.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Prototype.Main" />
       <module name="EjerciciosOpenBootcamp" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Builder.*" />
+          <option name="PATTERN" value="Prototype.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,18 +116,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Prototype.Main" />
       <item itemvalue="Application.Factory.Payment.Main" />
-      <item itemvalue="Application.Factory.Transport.Main" />
       <item itemvalue="Application.Singleton.Basic.Main" />
       <item itemvalue="Application.Singleton.Cart.Main" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Prototype.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Factory.Payment.Main" />
         <item itemvalue="Application.Singleton.Cart.Main" />
         <item itemvalue="Application.Singleton.Basic.Main" />
-        <item itemvalue="Application.Factory.Transport.Main" />
       </list>
     </recent_temporary>
   </component>

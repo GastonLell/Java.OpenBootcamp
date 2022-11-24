@@ -5,11 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a9ab857b-1471-466a-938b-02b26ca15c17" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Observer/Emisora.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Observer/Receptor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Observer/ReceptorRadio.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Observer/ReceptorSatelite.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Observer/ReceptorTV.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Mediator/Colega.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Mediator/ConcreteColleague1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Mediator/ConcreteColleague2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Mediator/ConcreteColleague3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Mediator/ConcreteMediator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Mediator/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Mediator/Mediator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,7 +52,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Observer.Main">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Adapter.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Adapter.Main" />
       <module name="EjerciciosOpenBootcamp" />
@@ -90,6 +92,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Mediator.Main" />
+      <module name="EjerciciosOpenBootcamp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Mediator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Observer.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Observer.Main" />
       <module name="EjerciciosOpenBootcamp" />
@@ -103,33 +118,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Prototype.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Prototype.Main" />
-      <module name="EjerciciosOpenBootcamp" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Prototype.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
       <item itemvalue="Application.Iterator.Main" />
       <item itemvalue="Application.Observer.Main" />
       <item itemvalue="Application.Adapter.Main" />
       <item itemvalue="Application.Decorator.Main" />
-      <item itemvalue="Application.Prototype.Main" />
+      <item itemvalue="Application.Main" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Observer.Main" />
         <item itemvalue="Application.Iterator.Main" />
         <item itemvalue="Application.Adapter.Main" />
         <item itemvalue="Application.Decorator.Main" />
-        <item itemvalue="Application.Prototype.Main" />
       </list>
     </recent_temporary>
   </component>

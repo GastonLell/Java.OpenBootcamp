@@ -5,12 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a9ab857b-1471-466a-938b-02b26ca15c17" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Adapter/Enchufable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Adapter/Horno.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Adapter/Lampara.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Adapter/Lightbulb.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Adapter/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Adapter/PowerAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Iterator/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Iterator/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Iterator/UserIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Iterator/Users.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,7 +49,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Adapter.Main">
+  <component name="RunManager" selected="Application.Iterator.Main">
     <configuration name="Adapter.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Adapter.Main" />
       <module name="EjerciciosOpenBootcamp" />
@@ -78,12 +76,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Factory.Payment.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Factory.Payment.Main" />
+    <configuration name="Iterator.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Iterator.Main" />
       <module name="EjerciciosOpenBootcamp" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Factory.Payment.*" />
+          <option name="PATTERN" value="Iterator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,19 +116,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.Iterator.Main" />
       <item itemvalue="Application.Adapter.Main" />
       <item itemvalue="Application.Decorator.Main" />
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.Prototype.Main" />
-      <item itemvalue="Application.Factory.Payment.Main" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Iterator.Main" />
         <item itemvalue="Application.Adapter.Main" />
         <item itemvalue="Application.Decorator.Main" />
         <item itemvalue="Application.Prototype.Main" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Factory.Payment.Main" />
       </list>
     </recent_temporary>
   </component>
